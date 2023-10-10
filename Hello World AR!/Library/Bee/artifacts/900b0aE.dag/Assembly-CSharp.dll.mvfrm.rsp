@@ -1,6 +1,8 @@
 Library/Bee/artifacts/mvdfrm/Unity.EditorCoroutines.Editor.ref.dll_44B23014301201CE.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.InputSystem.ForUI.ref.dll_40741C90D384E043.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.InputSystem.ref.dll_7AAB9AE1EF926134.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Mathematics.Editor.ref.dll_C54418FC61DECAC0.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Mathematics.ref.dll_666CAD8168029801.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Performance.Profile-Analyzer.Editor.ref.dll_6D5A44DF5A5FB85E.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.ref.dll_61765147EED78A29.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_58BAED9DE5C1964C.mvfrm
@@ -32,6 +34,8 @@ Library/Bee/artifacts/mvdfrm/Unity.XR.ARSubsystems.Editor.ref.dll_23E9FFAA50A1CB
 Library/Bee/artifacts/mvdfrm/Unity.XR.ARSubsystems.ref.dll_55F3343EB4EDB2A4.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.CoreUtils.Editor.ref.dll_41611F7ED100D9A8.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.CoreUtils.ref.dll_FA08107EEE92BA99.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.XR.Interaction.Toolkit.Editor.ref.dll_79F95D12BC03D928.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.XR.Interaction.Toolkit.ref.dll_12823BB85B85C319.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.Management.Editor.ref.dll_8EDDC0129752EB6F.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.Management.ref.dll_ABB2BB46CEF07862.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.OpenXR.Editor.ref.dll_45A6B6BCBB757E6E.mvfrm
@@ -131,4 +135,4 @@ Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_C4135A27F3951FDC.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_C98E514EA78A5BCF.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_D1934AEB8B4FACCB.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_FC4D145330C4A92D.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_C5BD14E80C8547D9.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_3AAE3DAE2D595361.mvfrm
