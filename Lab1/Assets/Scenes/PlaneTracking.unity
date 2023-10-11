@@ -329,6 +329,9 @@ GameObject:
   - component: {fileID: 782628377}
   - component: {fileID: 782628376}
   - component: {fileID: 782628379}
+  - component: {fileID: 782628382}
+  - component: {fileID: 782628381}
+  - component: {fileID: 782628380}
   m_Layer: 0
   m_Name: AR Session
   m_TagString: Untagged
@@ -387,9 +390,61 @@ MonoBehaviour:
   m_GameObject: {fileID: 782628375}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c89ec05d62e343a59bbdec608af2b312, type: 3}
+  m_Script: {fileID: 11500000, guid: b941c1b2814624ab098766cf1f8fdb8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  placeablePrefabs:
+  - {fileID: 8130612352794409262, guid: d14385c792cf04f94bf5e301526d1c8d, type: 3}
+  - {fileID: 8130612352794409262, guid: efb78430997484c3299731ba0615bd9d, type: 3}
+--- !u!114 &782628380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782628375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedLibrary: {fileID: 0}
+  m_MaxNumberOfMovingImages: 0
+  m_TrackedImagePrefab: {fileID: 0}
+--- !u!114 &782628381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782628375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520bb47c46cf8624fafb307b7d1b862a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Camera: {fileID: 0}
+--- !u!95 &782628382
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782628375}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1828601335
 GameObject:
   m_ObjectHideFlags: 0
